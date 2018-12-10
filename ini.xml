@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+	<prefixPkg>ATLOpusXX_FWpack</prefixPkg>
+
+	<localPkg>
+		<pkg>
+			<title>Local</title>
+			<src>01_AUDIO</src>
+			<file>UImcu</file>
+			<des>UI</des>
+		</pkg>
+	</localPkg>
+</root>
